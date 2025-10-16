@@ -1,9 +1,29 @@
-# React + Vite
+# React Mortgage Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated mortgage calculator built with **React** and **Tailwind CSS**. This app allows users to calculate monthly mortgage payments for 15- and 30-year loans with an interactive and visually appealing interface.
 
-Currently, two official plugins are available:
+[View on GitHub](https://github.com/rivera2017/react-mortgage-calculator)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Calculate monthly mortgage payments by entering:
+  - Loan balance
+  - APR (annual percentage rate)
+  - Loan term (15 or 30 years)
+- Animated falling house icons for a fun visual effect
+- Modern input fields with hover and focus effects
+- Responsive design for mobile and desktop
+
+## Tech Stack
+
+- **React** – Front-end library for building the UI  
+- **Tailwind CSS** – Styling and animations  
+- **JavaScript** – Core logic for mortgage calculation  
+
+## Installation
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/rivera2017/react-mortgage-calculator.git
+
 # React-Mortgage-Calculator
